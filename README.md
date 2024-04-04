@@ -28,7 +28,7 @@ Un point de rebroussement fait référence à une région dans une séquence d'A
 Étant donnée la circularité de l’ADN bactérien, la réplication démarre au niveau de l’origine de réplication puis se poursuit dans les 2 sens, jusqu’au point où les deux se rencontrent qui est le point d’inversion. 
 
 
-Ce point remarquable sur une séquence d’ADN peut être trouvé par différentes méthodes : la première consiste à observer la modification du pourcentage de nucléotide G et C calculé, la deuxième se calcule en prenant la courbe ratio nbC-nbG /nbC+nbG) le long d'une séquence d'ADN inverse. 
+Ce point remarquable sur une séquence d’ADN peut être trouvé par différentes méthodes : la première consiste à observer la modification du pourcentage de nucléotide G et C calculé, la deuxième se calcule en prenant la courbe ratio nbC-nbG /nbC+nbG) le long d'une séquence d'ADN. 
 
 La prédiction n’est pas exacte, mais permet de se concentrer sur une partie de séquence à partir du point d’inversion, pour rechercher l’origine de réplication.
 
