@@ -44,6 +44,7 @@ def point_inversion(seq, fen, pas):
 
 
 def plot_graph(file):
+
     sequence = lire_fichier(file.name)
     fenetre = 8000
     points_inv, ratios_GC = point_inversion(sequence, fenetre, fenetre // 2 + fenetre // 3)
